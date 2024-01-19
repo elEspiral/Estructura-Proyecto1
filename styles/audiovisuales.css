@@ -1,0 +1,22 @@
+.deLado {
+    float: left;
+    width: auto;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+}
+
+.galeria {
+    overflow:hidden;
+    float: left;
+    margin: 5px;
+    border: 1px solid grey;
+    width: 33vw;
+}
+
+.descripcion {
+    padding: 15px;
+    text-align: center;
+}

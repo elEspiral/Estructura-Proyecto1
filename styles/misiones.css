@@ -1,0 +1,24 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid gray;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    background-color: rgb(211, 190, 190);
+}
+
+th {
+    text-align: left;
+    border: 1px solid darkgrey;
+    padding: 10px;
+    background-color: darkgrey;
+}
+
+td {    
+    border: 1px solid darkgrey;
+    padding: 10px;
+}
